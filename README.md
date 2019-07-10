@@ -1,5 +1,5 @@
-# My bento-starter project
+# Sunsetlist
 
 ## Documentation
 
-Documentation available :point_right: [here](https://bento-starter.netlify.com/)
+WIP
