@@ -10,7 +10,7 @@ export default {
   },
 
   /**
-   * Trigger service worker skipWating so the new service worker can take over.
+   * Trigger service worker skipWaiting so the new service worker can take over.
    * This will also trigger a window refresh (see /src/misc/register-service-worker.js)
    */
   serviceWorkerSkipWaiting({ state, commit }) {

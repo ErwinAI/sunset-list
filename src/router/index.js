@@ -1,9 +1,9 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Head from 'vue-head'
+import { isNil } from 'lodash'
 import Home from '@/views/Home'
 import CheckLogin from '@/views/CheckLogin'
-import { isNil } from 'lodash'
 import store from '@/store'
 
 Vue.use(Router)
